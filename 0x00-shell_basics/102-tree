@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdik-p welcome/to/school 
+mkdik -p welcome/to/school 
